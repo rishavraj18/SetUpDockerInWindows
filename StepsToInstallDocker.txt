@@ -1,0 +1,11 @@
+1) GoTo https://docs.docker.com/get-docker/
+2) Select OS as Windows
+3) Check System requirements
+4) Enable Hyper-V using attached script(If not enable) link - https://learn.microsoft.com/en-us/answers/questions/29175/installation-of-hyper-v-on-windows-10-home.html
+5) Enable Virtulisation using link- https://www.technorms.com/8208/check-if-processor-supports-virtualization(If not enable by default)
+6) Manual Installation of Linux kernal using attached software link- https://learn.microsoft.com/en-gb/windows/wsl/install-manual#step-4---download-the-linux-kernel-update-package
+7) Set WSL to version 2 using command: wsl --set-default-version 2
+8) Install Docker Desktop for windows - https://desktop.docker.com/win/main/amd64/Docker%20Desktop%20Installer.exe
+9) Install Ubuntu 22.04.1 LTS - https://learn.microsoft.com/en-gb/windows/wsl/install-manual
+10) Setup Linux Username and Password Link - https://learn.microsoft.com/en-gb/windows/wsl/setup/environment#set-up-your-linux-username-and-password
+
